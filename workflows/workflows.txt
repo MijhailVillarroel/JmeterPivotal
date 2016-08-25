@@ -1,0 +1,27 @@
+1. Workflow1
+- create project
+- create story
+- Update Story (start story)
+- Delete project
+
+2. Workflow2
+- create workspace with project and stories.
+3. Workflow3
+- complete sprint(all tasks in done). 
+4. Workflow4
+- create tasks on Story.
+5. Workflow5
+- add members to project.
+6. Workflow6
+- set personal settings and create accounts.
+7. Workflow7
+- assing users to story 
+8. Workflow8
+- delete all stories.
+9. Workflow9
+- add labels and comments to an story.
+10. Workflow10
+- create a story and move it through icebox,backlog current and done cards.
+
+
+
