@@ -7,11 +7,19 @@
 2. Workflow2
 - create workspace with project and stories.
 3. Workflow3
-- complete sprint(all tasks in done). 
+    - Get and Delete all Projects
+    - Create Project Sprint
+    - Create a Story 1 in project
+    - Update Story 1 estimate : 2, current_state : accepted
+    - Get Stories are Done
+    - Verifed size stories.
 4. Workflow4
 - create tasks on Story.
 5. Workflow5
-- add members to project.
+    - Delete All projects.
+    - Create Project AddMenbers.
+    - Get Person Juan.
+    - Add Person Member Ships
 6. Workflow6
 - set personal settings and create accounts.
 7. Workflow7
