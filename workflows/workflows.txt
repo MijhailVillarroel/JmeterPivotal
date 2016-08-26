@@ -36,7 +36,17 @@
 - set personal settings and create accounts.
 
 7. Workflow7
-- assing users to story 
+	- Delete all projects
+	- Create project Tests
+	- Get Person Juan
+	- Get Person Pedro
+	- Create five stories in project test
+	- Add like member a Pedro
+	- Add like member a Juan
+	- Get all stories
+	- Update stories and set owners and members
+	   Owner : Pedro and Juan
+	   Member : Pedro and Juan
 
 8. Workflow8
 - delete all stories.
