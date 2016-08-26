@@ -1,11 +1,20 @@
 1. Workflow1
-- create project
-- create story
-- Update Story (start story)
-- Delete project
+	- create project
+	- create story
+	- Update Story (start story)
+	- Delete project
 
 2. Workflow2
-- create workspace with project and stories.
+	- create a project A
+	- create a projects B
+	- Create a Story for projects A
+	- Create a Story for projects B
+	- Create WorkSpace A
+	- Add WorkSpace the project A
+	- Add WorkSpace the project B
+	- Create workspace B
+	- Update workspace B
+	
 3. Workflow3
     - Get and Delete all Projects
     - Create Project Sprint
@@ -13,21 +22,28 @@
     - Update Story 1 estimate : 2, current_state : accepted
     - Get Stories are Done
     - Verifed size stories.
+	
 4. Workflow4
 - create tasks on Story.
+
 5. Workflow5
     - Delete All projects.
     - Create Project AddMenbers.
     - Get Person Juan.
     - Add Person Member Ships
+	
 6. Workflow6
 - set personal settings and create accounts.
+
 7. Workflow7
 - assing users to story 
+
 8. Workflow8
 - delete all stories.
+
 9. Workflow9
 - add labels and comments to an story.
+
 10. Workflow10
 - create a story and move it through icebox,backlog current and done cards.
 
