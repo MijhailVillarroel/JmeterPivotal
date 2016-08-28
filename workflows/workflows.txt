@@ -23,8 +23,8 @@
     - Update Story 1 estimate : 2, current_state : accepted
     - Get Stories are Done
     - Verifed size stories.
-    
-4. Create task
+ 
+4. Delete all project
 	- Get and Delete all Projects
 	- create project
 	- create story
@@ -42,9 +42,24 @@
 	- validate membership.
 	
 7. Assing users to story
-- assing users to story 
-
+  - Create project
+  - get user 1
+  - get user 2
+  - update projects add person 1
+  - update projects add person 2
+  - Create Story A
+  - Create Story B
+  - Update Story A, set owner a person 1
+  - Update Story B, set owner a person 2
+  - Update Story A, set Requwster a person 1 and person 2 
+  
 8. Delete all stories
+  - delete all projects
+  - create a project
+  - create stories
+  - get all stories
+  - delete stories
+  - delete project
 
 9. Add labels and comments
   - Delete all projects
@@ -57,7 +72,11 @@
   - Delete comments
 
 10. Workflow10
-- create a story and move it through icebox,backlog current and done cards.
+- delete all projects
+- create a project
+- create epic
+- set epic
+- delete project
 
 
 
