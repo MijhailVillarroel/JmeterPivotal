@@ -1,40 +1,61 @@
-1. Workflow1
+1. Create start user stories
 	- Get and Delete all Projects
 	- create project
 	- create story
 	- Update Story to start story
 	- Delete project
 
-2. Workflow2
-- create workspace with project and stories.
-3. Workflow3
+2. Create workSpace
+	- create a project A
+	- create a projects B
+	- Create a Story for projects A
+	- Create a Story for projects B
+	- Create WorkSpace A
+	- Add WorkSpace the project A
+	- Add WorkSpace the project B
+	- Create workspace B
+	- Update workspace B
+	
+3. Complete a sprint 
     - Get and Delete all Projects
     - Create Project Sprint
     - Create a Story 1 in project
     - Update Story 1 estimate : 2, current_state : accepted
     - Get Stories are Done
     - Verifed size stories.
-4. Workflow4
+    
+4. Create task
 	- Get and Delete all Projects
 	- create project
 	- create story
 	- create tasks for story created
 
-5. Workflow5
+5. Add Menbers
     - Delete All projects.
     - Create Project AddMenbers.
     - Get Person Juan.
     - Add Person Member Ships
-6. Workflow6
+    
+6. create Account
 	- get account.
 	- create membership.
 	- validate membership.
-7. Workflow7
+	
+7. Assing users to story
 - assing users to story 
-8. Workflow8
-- delete all stories...
-9. Workflow9
-- add labels and comments to an story.
+
+8. Delete all stories
+
+9. Add labels and comments
+  - Delete all projects
+  - Create project A
+  - Create five stories
+  - Update stories, set lavel
+  - Add label
+  - create comments for stories
+  - Udate Stories, set Comments
+  - Delete comments
+
 10. Workflow10
 - create a story and move it through icebox,backlog current and done cards.
 
