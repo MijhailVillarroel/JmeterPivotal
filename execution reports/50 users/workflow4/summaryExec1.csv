@@ -1,0 +1,10 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Create task on Story:create project,100,1353,1091,2390,282.63,100.00%,32.4,9.80,310.0
+Create task on Story:create story,100,997,581,3772,514.06,100.00%,21.0,6.37,310.0
+Create task on Story:set Story,100,811,574,2561,331.20,100.00%,18.0,5.46,310.0
+Create task on Story:create task to story,500,711,573,2350,282.99,100.00%,25.2,7.63,310.0
+Create task on Story:src,100,6718,5240,9276,898.81,100.00%,2.9,7.07,2480.0
+Create task on Story:Delete project,100,298,190,1601,208.02,100.00%,19.5,5.89,310.0
+Create task on Story:TearDown,100,298,190,1601,208.02,100.00%,19.5,5.89,310.0
+Create task on Story:Debug Sampler,100,0,0,1,0.42,0.00%,20.3,186.26,9406.8
+TOTAL,1200,1169,0,9276,1747.91,91.67%,34.8,42.49,1248.9

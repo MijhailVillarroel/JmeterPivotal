@@ -1,0 +1,7 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Add members to an Account:get accounts,50,1230,1074,1452,132.47,0.00%,21.6,31.76,1509.3
+Add members to an Account:src,50,10942,1074,25068,9886.82,50.00%,.9,80.78,96828.6
+Add members to an Account:Debug Sampler,50,0,0,1,0.37,0.00%,.9,8.21,9474.6
+Add members to an Account:create membership,200,1085,922,1868,146.33,87.50%,8.4,4.30,525.0
+Add members to an Account:get membership to account,200,1342,576,5831,730.94,12.50%,6.7,152.87,23304.8
+TOTAL,550,1989,0,25068,4152.01,40.91%,9.4,169.47,18466.5

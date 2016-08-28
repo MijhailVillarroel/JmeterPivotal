@@ -1,0 +1,10 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Create and set epics on project:create project,50,1326,1186,1507,108.34,0.00%,20.3,31.74,1600.2
+Create and set epics on project:create epics,50,1092,739,1380,158.44,18.00%,22.2,23.85,1100.3
+Create and set epics on project:set epic description,50,0,0,0,0.00,100.00%,38.9,41.35,1089.0
+Create and set epics on project:add epic comment,50,0,0,0,0.00,100.00%,38.9,41.69,1098.0
+Create and set epics on project:src,50,2419,1975,2741,198.00,100.00%,2.6,12.25,4887.5
+Create and set epics on project:Delete project,50,740,696,796,24.50,0.00%,24.9,17.53,721.0
+Create and set epics on project:TearDown,50,740,696,796,24.50,0.00%,24.9,17.52,721.0
+Create and set epics on project:Debug Sampler,50,0,0,1,0.38,0.00%,40.0,367.94,9426.9
+TOTAL,400,789,0,2741,789.61,39.75%,19.8,49.87,2580.5

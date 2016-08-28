@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Create start user stories:create project,50,1121,999,1421,116.29,46.00%,24.6,24.21,1006.4
+Create start user stories:create story,50,919,586,3597,617.03,100.00%,12.9,3.89,310.0
+Create start user stories:set Story name,50,621,574,1290,97.92,100.00%,12.9,3.92,310.0
+Create start user stories:set Story type,50,614,574,1297,98.92,100.00%,12.9,3.91,310.0
+Create start user stories:start Story,50,719,574,1427,230.33,100.00%,12.7,4.14,333.2
+Create start user stories:src,50,3995,3385,6490,696.39,100.00%,2.3,5.07,2269.6
+Create start user stories:Delete project,50,366,199,1307,249.00,92.00%,13.5,4.88,370.7
+Create start user stories:TearDown,50,366,199,1307,249.00,92.00%,10.6,3.84,370.7
+Create start user stories:Debug Sampler,50,0,0,23,3.21,0.00%,15.2,139.98,9414.3
+TOTAL,450,969,0,6490,1166.03,81.11%,18.6,29.65,1632.8

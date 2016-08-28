@@ -1,0 +1,11 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Delete all Stories:create project,50,1334,1184,1505,108.47,0.00%,20.7,32.39,1599.5
+Delete all Stories:create story,250,851,657,1539,124.99,10.40%,6.1,6.69,1126.6
+Delete all Stories:set Story type,250,771,611,1505,124.32,10.40%,6.1,6.88,1159
+Delete all Stories:Get All Stories,50,645,614,682,14.95,0.00%,17.6,43.08,2512.6
+Delete all Stories:delete story,250,737,572,977,72.91,13.84%,8.6,5.6,665
+Delete all Stories:src,50,13401,12106,14991,738.88,74.00%,0.6,10.21,18519.1
+Delete all Stories:Delete project,50,329,301,360,13.42,0.00%,5.9,4.15,722
+Delete all Stories:TearDown,50,329,301,360,13.42,0.00%,5.3,3.71,722
+Delete all Stories:Debug Sampler,50,0,0,1,0.44,0.00%,6.1,57.16,9531.8
+TOTAL,1032,1340,0,14991,2750.83,11.72%,11.3,25.8,2344.4
